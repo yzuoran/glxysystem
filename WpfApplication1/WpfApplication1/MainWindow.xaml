@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="100" Margin="192,120,0,0" VerticalAlignment="Top" Width="100"/>
+        <ScrollBar x:Name="scrollBar" HorizontalAlignment="Left" Margin="129,65,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
